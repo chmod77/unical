@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/chmod77/unical"
 homepage = "https://github.com/chmod77/unical"
 readme = "README.md"
-keywords = ["calendarific", "unical", "public holidays", "calendar", "holidays"]
+keywords = ["calendarific", "unical", "public-holidays", "calendar", "holidays"]
 
 
 [dependencies]
