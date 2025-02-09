@@ -1,4 +1,4 @@
-# unical - A uniform API to retrieve public holidays
+# unical - A unified API to retrieve public holidays
 
 **`unical`** is a platform-agnostic calendar library for Rust that integrates with multiple Calendar data providers. It provides a simple, asynchronous interface to fetch holiday information and can be easily extended to support additional calendar services.
 
